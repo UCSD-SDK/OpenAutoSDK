@@ -1,0 +1,21 @@
+<TaskDocList>
+
+	<TaskDoc>
+		<Task>HelloWorldConfig</Task>
+		<Summary>Sample task to demonstrate task registration</Summary>
+		<Description> <![CDATA[
+			This task takes e-mail as input and displays it in logs.			
+			]]>
+		</Description>
+	</TaskDoc>
+	
+	<TaskDoc>
+		<Task>RollbackHelloWorldConfig</Task>
+		<Summary>Sample task to demonstrate rollback task registration</Summary>
+		<Description> <![CDATA[
+			This task used to rollback HelloWorldConfig task.					
+			]]>
+		</Description>
+	</TaskDoc>
+	
+</TaskDocList>
